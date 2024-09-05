@@ -1,4 +1,4 @@
-# 基于Java+Vue+SpringBoot-打造的智慧停车场-毕设项目功能介绍
+# 基于Java-Vue-SpringBoot打造的智慧停车场毕设项目功能介绍
 
 ![登陆界面](https://www.skywalking.pro/download/images/parking-platform/WX20231011-144536@2x.png  "登陆界面.png")
 
